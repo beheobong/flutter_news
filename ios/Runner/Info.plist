@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>io.flutter.embedded_views_preview</key>
+		<string>YES</string>
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>fetch</string>
+			<string>remote-notification</string>
+		</array>
+		<key>NSAppleMusicUsageDescription</key>
+		<string>Explain why your app uses music</string>
+		<key>UISupportsDocumentBrowser</key>
+		<true/>
+		<key>LSSupportsOpeningDocumentsInPlace</key>
+		<true/>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Explain why your app uses photo library</string>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>$(DEVELOPMENT_LANGUAGE)</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleName</key>
+		<string>care_box</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(FLUTTER_BUILD_NAME)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleVersion</key>
+		<string>$(FLUTTER_BUILD_NUMBER)</string>
+		<key>LSRequiresIPhoneOS</key>
+		<true/>
+		<key>NSAppTransportSecurity</key>
+		<dict>
+			<key>NSAllowsArbitraryLoads</key>
+			<true/>
+		</dict>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Replace with your permission description.</string>
+		<key>NSCameraUsageDescription</key>
+		<string>Camera Usage!</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>Microphone Usage!</string>
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>fetch</string>
+			<string>remote-notification</string>
+			<string>voip</string>
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIMainStoryboardFile</key>
+		<string>Main</string>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationPortraitUpsideDown</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<false/>
+		<key>NSAppleMusicUsageDescription</key>
+		<string>Music!</string>
+		<key>NSBluetoothAlwaysUsageDescription</key>
+		<string>motion</string>
+		<key>NSBluetoothPeripheralUsageDescription</key>
+		<string>motion</string>
+		<key>NSCalendarsUsageDescription</key>
+		<string>Calendars</string>
+		<key>NSCameraUsageDescription</key>
+		<string>Bạn có thể dùng camera để lấy ảnh, tạo bản đăng và thay đổi cấu hình, wallpicture ...</string>
+		<key>NSContactsUsageDescription</key>
+		<string>contacts</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+		<string>Always and when in use!</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>Can I have location always?</string>
+		<key>NSLocationUsageDescription</key>
+		<string>Older devices need location.</string>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>Need location when in use</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>Vui lòng cấp quyền cho microphone để sử dụng tìm kiếm bằng giọng nói</string>
+		<key>NSMotionUsageDescription</key>
+		<string>motion</string>
+		<key>NSPhotoLibraryAddUsageDescription</key>
+		<string>Image storage, report data</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Điều này cho phép bạn gửi hoặc đăng ảnh và video từ thư viện và lưu những người bạn chụp</string>
+		<key>NSRemindersUsageDescription</key>
+		<string>reminders</string>
+		<key>NSSpeechRecognitionUsageDescription</key>
+		<string>Vui lòng cấp quyền cho microphone để sử dụng tìm kiếm bằng giọng nói</string>
+		<key>CADisableMinimumFrameDurationOnPhone</key>
+		<true/>
+		<key>UIStatusBarHidden</key>
+		<false/>
+	</dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>941014089874-n76spajt0cidhgdm55it939d7c7opq35.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.941014089874-n76spajt0cidhgdm55it939d7c7opq35</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfmmBmADOSlgNkTxeoVkrj3XZn-Kbtaq0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941014089874</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.carebox</string>
+	<key>PROJECT_ID</key>
+	<string>carebox-9d9e8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carebox-9d9e8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941014089874:ios:403d74493d94e3865d264b</string>
+</dict>
+</plist>

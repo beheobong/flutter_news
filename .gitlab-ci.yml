@@ -1,0 +1,24 @@
+image: cirrusci/flutter:stable
+
+stages:
+  - lint
+
+before_script:
+  - flutter pub get
+  - flutter clean
+
+flutter_analyze:
+  stage: lint
+
+  script:
+    - flutter analyze --pub
+    - flutter format -n . --set-exit-if-changed
+
+  tags:
+    - shared
+
+  only:
+    - merge_requests
+    - lib/**/*.dart
+    - test/**/*.dart
+
